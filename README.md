@@ -1,4 +1,4 @@
-[![MasterHead](https://aos.rw/wp-content/uploads/2022/12/banner_img.gif)](https://deliverymgt.com)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5cb42c078dfc8c32928f1683/1576673671501-815N3LYAA34XFVFLWSUP/enterprise-content-management.gif)](https://deliverymgt.com)
 <h1 align="center">Hi 👋, I'm Manfredi</h1>
 <h3 align="center">Manager in IT & Business Consulting</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
@@ -12,6 +12,8 @@
 - 📝 I regularly write articles on [https://deliverymgt.com/blog/](https://deliverymgt.com/blog/)
 
 - 💬 Ask me about **Python, Salesforce, AWS, Life Sciences, Project Management, People Management**
+
+- 🌟 In my free time I am into **wandering/running/biking, watching sport (mainly football and tennis), live streaming & content creation**
 
 - 📫 How to reach me **m.pomar@outlook.com**
 
