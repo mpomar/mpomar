@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:638/1*u1GlKDnji_PTvgKbYH5EbQ.jpeg)](https://github.com/mpomar/mpomar)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQGh7Os2rwcjyg/article-cover_image-shrink_720_1280/0/1664780237543?e=2147483647&v=beta&t=3VRE1XgkyA77xJlTEdWohGz-IaWnH29s3O8GKPEb_oI)](https://deliverymgt.com)
 <h1 align="center">Hi 👋, I'm Manfredi</h1>
 <h3 align="center">Manager in IT & Business Consulting</h3>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nujrpPnTfO0Ac152.gif">
+<img align="right" src="https://nife.io/wp-content/uploads/2022/08/banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpomar&label=Profile%20views&color=0e75b6&style=flat" alt="mpomar" /> </p>
 
