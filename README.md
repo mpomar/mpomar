@@ -1,6 +1,6 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5cb42c078dfc8c32928f1683/1576673671501-815N3LYAA34XFVFLWSUP/enterprise-content-management.gif)](https://deliverymgt.com)
 <h1 align="center">Hi 👋, I'm Manfredi</h1>
-<h3 align="center">Manager in IT & Business Consulting</h3>
+<h3 align="center">Manager in Business Consulting</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpomar&label=Profile%20views&color=0e75b6&style=flat" alt="mpomar" /> </p>
