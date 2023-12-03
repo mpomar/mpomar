@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQGh7Os2rwcjyg/article-cover_image-shrink_720_1280/0/1664780237543?e=2147483647&v=beta&t=3VRE1XgkyA77xJlTEdWohGz-IaWnH29s3O8GKPEb_oI)](https://deliverymgt.com)
 <h1 align="center">Hi 👋, I'm Manfredi</h1>
 <h3 align="center">Manager in IT & Business Consulting</h3>
-<img align="right" src="https://nife.io/wp-content/uploads/2022/08/banner.gif">
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpomar&label=Profile%20views&color=0e75b6&style=flat" alt="mpomar" /> </p>
 
@@ -29,5 +29,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpomar&show_icons=true&locale=en" alt="mpomar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpomar&" alt="mpomar" /></p>
