@@ -9,15 +9,17 @@
 
 - 🔭 I’m currently **migrating some old repositories to this new profile.**
 
-- 📝 I regularly write articles on [https://deliverymgt.com/blog/](https://deliverymgt.com/blog/)
+- 📝 I regularly post articles on [Delivery Management](https://deliverymgt.com/blog/)
 
 - 💬 Ask me about **Python, Salesforce, AWS, Life Sciences, Project Management, People Management**
 
+- 🔎 You can find out more about me [here](https://mpomar.github.io/)
+
 - 🌟 In my free time I am into **wandering/running/biking, watching sport (mainly football and tennis), live streaming & content creation**
 
-- 📫 How to reach me **m.pomar@outlook.com**
+- 📫 You can reach me at **m.pomar@outlook.com**
 
-- ⚡ Fun fact **import antigravity**
+- ⚡ Fun fact: **import antigravity**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
