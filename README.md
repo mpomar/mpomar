@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Server 101: My Setup &amp; Recommendations](https://deliverymgt.com/home-server-setup/)
 - [The Power of the Stakeholder Matrix for Project Success](https://deliverymgt.com/stakeholder-matrix/)
 - [Project vs. Program Management – Mastering the Transition](https://deliverymgt.com/project-vs-program-management/)
 - [Vertical SaaS vs Horizontal SaaS: Is One Better?](https://deliverymgt.com/vertical-saas-horizontal-saas/)
 - [Tips to Answer Project Management Interview Questions](https://deliverymgt.com/project-management-interview-questions/)
-- [Landing Your First Project Management Job](https://deliverymgt.com/project-management-job/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
