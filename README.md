@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning Local LLMs Efficiently](https://deliverymgt.com/llm-fine-tuning/)
 - [Running A Local LLM With Your Own Documents](https://deliverymgt.com/local-llm/)
 - [Home Server 101: My Setup &amp; Recommendations](https://deliverymgt.com/home-server-setup/)
 - [The Power of the Stakeholder Matrix for Project Success](https://deliverymgt.com/stakeholder-matrix/)
 - [Project vs. Program Management – Mastering the Transition](https://deliverymgt.com/project-vs-program-management/)
-- [Vertical SaaS vs Horizontal SaaS: Is One Better?](https://deliverymgt.com/vertical-saas-horizontal-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
